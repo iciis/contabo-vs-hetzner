@@ -108,8 +108,8 @@ Hetzner's emphasis on performance consistency, modern infrastructure (especially
 
 1. **High-Resource VPS:**
 
-<a href="https://afftrend.com/ontabo">
-  <img src="https://drive.google.cc?export=view&id=1RjI7oAu4RHBKYYDvvI7qfVkDAkSpoi9V"alt="Contabo High-Resource VPS">
+<a href="https://afftrend.com/contabo">
+  <img src="https://drive.google.com/uc?export=view&id=1zzbAZZ9mKvCcRMODKZAVgMOJZQebliFG"  alt="Contabo High-Resource VPS">
 </a>
 
 Contabo's VPS plans are known for offering significantly more RAM, CPU cores (shared), and storage (SSD/NVMe or large HDD options) at lower price points compared to many competitors. Ideal for users who need raw computing power and capacity on a tight budget for development, testing, or less performance-critical applications.
